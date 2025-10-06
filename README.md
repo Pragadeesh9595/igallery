@@ -118,6 +118,7 @@ updateGallery( );
 ```
 ## OUTPUT:
 ![alt text](<Screenshot 2025-10-06 222932.png>)
+
 ![alt text](<Screenshot 2025-10-06 222954.png>)
 
 ## RESULT:
